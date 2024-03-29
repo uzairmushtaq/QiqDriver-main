@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "37372497517",
+    "project_id": "cab2u-driver",
+    "storage_bucket": "cab2u-driver.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37372497517:android:c1eefd90ec01f6ea3af964",
+        "android_client_info": {
+          "package_name": "com.cab2u_proj.driver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsfGxqY7Zmg3qVxlxpQTGeaeOO7VJ8mF4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
